@@ -6,7 +6,7 @@ I've added this Script to run whenever I wake my PC from Sleep by adding this sc
 
 
 ```
- powershell -File /Udemy_Practice.ps1
+ powershell -File pathTo/Udemy_Practice.ps1
 ```
 
 
